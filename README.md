@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+JoeNoCoViewTool::Renderer.copyright 'JoeNo Co.', 'All Rights Reserved'
+```
 
 ## Development
 
